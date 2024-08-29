@@ -1,0 +1,19 @@
+Requirements to run Daily Planner:
+Python:
+Version: Ensure you have Python 3.6 or higher.
+Installation: If Python isn't already installed, download and install it from the  official Python website:
+ https://www.python.org/
+Pip:
+Purpose: Pip is Python's package installer, used for installing external libraries.
+Installation: Pip usually comes with Python 3.x. Verify its installation by running pip --version in your terminal. If it's not installed, you can add it using the Python installer.
+Libraries:
+Tkinter: This library is part of Python's standard library and doesn't require a separate installation. Tkinter is used to create the application's graphical user interface (GUI).
+tkcalendar: This library provides a calendar widget for date selection. Install it using pip:
+
+pip install tkcalendar
+Other Dependencies:
+Operating System: The application is compatible with Windows, macOS, and Linux. Note that installation paths may vary depending on your OS.
+Summary to run the Daily Planner program:
+Install Python 3.x: If you don't have it.
+Install tkcalendar: Using pip: pip install tkcalendar
+Once you have these requirements in place, you should be able to download or clone the code and run the program using python main.py.
